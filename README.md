@@ -16,9 +16,6 @@
 1.  **Configure Database Connection**Edit includes/db.php:
     
 
-phpCopyDownload
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML
 
 `   $host = 'localhost';  $user = 'root';  $password = '';  // XAMPP default  $database = 'competition';   `
 
@@ -41,9 +38,7 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 Database Schema
 ---------------
 
-sqlCopyDownload
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   -- See sql/schema.sql for full details  Tables:  - users (participants)  - judges (judge credentials)  - scores (scoring records)   `
+ -- See sql/schema.sql for full details  Tables:  - users (participants)  - judges (judge credentials)  - scores (scoring records)   `
 
 Assumptions
 -----------
