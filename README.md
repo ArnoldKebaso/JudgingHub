@@ -1,8 +1,5 @@
-### **1\. Comprehensive Documentation (README.md)**
+### **1\. Project Documentation **
 
-markdownCopyDownload
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   # Competition Scoring System  ## Local Development Setup  ### Requirements  - PHP 8.2+  - MySQL 8.0+  - Web server (Apache recommended)  - [XAMPP](https://www.apachefriends.org) (Windows/Mac/Linux)  ### Installation  1. **Clone Repository**  ```bash  git clone [your-repo-url]  cd competition-system   `
 
 1.  **Database Setup**
     
